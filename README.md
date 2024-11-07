@@ -9,4 +9,6 @@ m_portfolio_allocation.ipynb performs Markwotize Portfolio Allocation for 50,000
 
 Link to the Tableau Dashboard: https://public.tableau.com/views/All-ETFPortfolioOptimizer/All-ETFPortfolioOptimizer?:language=en-US&:display_count=n&:origin=viz_share_link
 
+Spark Fund.xlsx is an example of a modern portfolio allocation, it is NOT FINANCIAL ADVICE. Only another example like the tableau dashboard of what is possible with the python script outputs. Edit the tickers within the script to make your own ETF!! :D
+
 Scripts inspired by: https://www.machinelearningplus.com/machine-learning/portfolio-optimization-python-example/
